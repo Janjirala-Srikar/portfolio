@@ -1,0 +1,46 @@
+.cont {
+    background-color: hsl(0, 0%, 14%);
+    color: aliceblue;
+    display: flex; 
+    justify-content: center; 
+    height:100vh; 
+    padding-top: 20px; 
+}
+
+.boxOfHome {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    gap: 45px;
+    line-height: 1.1;
+}
+
+.pic {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 4rem;
+    margin: 1px;
+}
+
+.intro .i {
+    color: #cfe6f8;
+}
+
+.ii {
+    color: rgb(169, 168, 168);
+}
+
+button {
+    padding: 10px 20px;
+    border: 2px solid #8cc8f5; 
+    background-color: #242424; 
+    color: #8cc8f5;
+    font-size: 16px; 
+    border-radius: 30px !important; 
+    cursor: pointer; 
+    margin: 10px;
+}

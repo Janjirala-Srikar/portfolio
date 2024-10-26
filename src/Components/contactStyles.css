@@ -1,0 +1,20 @@
+.contain{
+    background-color: #242424;
+    color: aliceblue;
+    padding: 20px;
+    min-height: 100vh; 
+}
+.fss{
+    color:  lightblue;
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+
+.cpyryts {
+    text-align: center; 
+    margin: 250px 0; 
+    font-size: 1rem; 
+    color: #a1a1a1;
+    width: 100%; 
+}
